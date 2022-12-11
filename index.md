@@ -1,12 +1,12 @@
-# My Data Analytics Portfolio
+# Data Analytics Portfolio
 
 ---
 
-### General Analytics Projects
+### Analytics Projects
 
 #### [Internal Blog Post Project](/sample_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
@@ -14,9 +14,9 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### [[External Link Project]([https://www.linkedin.com/feed/update/urn:li:ugcPost:7005583395166588928?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A7005583395166588928%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/?trackingId=kVvw23kRTMiuEU0WNsV7VA%3D%3D)]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/?trackingId=kVvw23kRTMiuEU0WNsV7VA%3D%3D))
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/?trackingId=kVvw23kRTMiuEU0WNsV7VA%3D%3D)
+My final write up for DoorDash Marketing Analysis. This marketing analysis was performed in Excel to help DoorDash improve and optimize their strategies for better customer retention and sales.
 
 ---
 
