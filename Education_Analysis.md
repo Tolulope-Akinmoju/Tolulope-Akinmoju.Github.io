@@ -27,6 +27,9 @@ Schools that are struggling the most (Low Graduation rate)
 How class size affect college admission? 
 
 The top math schools in the state. 
+
+
+
 ### DATA 
 
 The data was supplied as an excel file for the year 2017. It was imported into Tableau. Dataset has 1861 rows and 299 columns. All analysis and visualization were performed in Tableau Public. 
@@ -43,6 +46,7 @@ Once the data was loaded, I was ready to answer the questions listed above that 
 <img width="789" alt="% low grad rate" src="https://user-images.githubusercontent.com/114532273/207426845-f9645f35-eda2-4ff9-b3f1-f6a9fb29e04e.png">
 
 
+
 Research has shown that that some of the leading factors for low school attendance include poverty, class size, parent involvement amongst others. In this analysis, I chose to see how college attendance is impacted by two of these factors in the plot below 
 
 
@@ -50,9 +54,12 @@ Research has shown that that some of the leading factors for low school attendan
 
 <img width="793" alt="Class size" src="https://user-images.githubusercontent.com/114532273/207426883-a96c8b96-e687-4a52-bed7-76f1185d0684.png">
 
+
+
 In the scatter plot above, I was hoping to see a much stronger correlation between class size and college attendance. Incorporating an additional factor of the economically disadvantage students in color code, I found that the more disadvantaged the students are, the lower their percentage attending college.  
 
  
+
 The next task was to find out the top math schools in the state. The superintendent believes that 4th grade math is key to a student's success and would like to focus on improving the state's MCAS 4th grade Math Passing value (50%). The line chart below shows only four schools are above the desired threshold of 50. Now that these schools are known, the teachers in these highlighted schools will assist in training the rest of the state on how to improve math scores.   
 
  
@@ -61,11 +68,14 @@ The next task was to find out the top math schools in the state. The superintend
 <img width="745" alt="4th grade" src="https://user-images.githubusercontent.com/114532273/207426959-9fda9840-1c3e-42b5-ac34-3e7e9d38369d.png">
 
 
+
 Lastly, I designed a dashboard that the superintendent can present to the school board to visualize the overall state of the school system. This dashboard can easily show them areas to be considered for further improvement of the school system. 
 
  
  
  <img width="1079" alt="DASHBOARD MA SCHLS" src="https://user-images.githubusercontent.com/114532273/207427201-003e5dea-2312-43ac-8281-c00e3f08025e.png">
+
+
 
 
 ### RECOMMENDATIONS 
