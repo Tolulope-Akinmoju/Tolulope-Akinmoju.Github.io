@@ -1,16 +1,5 @@
 ## Massachussets Education Overview
 
-### Problem Description 
-
-Over the years in the United States, Massachusetts workforce has been known to be the state with the highest record of college degree holders. However, very recently, there has been a drastic drop in the percentage of high school graduates proceeding to earn a college degree, and this has become an alarming issue for the state Education sector. As a matter of fact, data revealed that total number of high school graduates attending has dipped by ten percent. This has become a major concern to the State superintendent and other major stakeholders (Massachusetts education officials sound alarm over college enrollment plunge (wgbh.org). This singular reason birthed the need to perform this analysis to unravel some of these questions and see if they apply in real world scenarios. Presented in this project is the dataset from the different high schools in the State of Massachusetts. The analysis I performed was to give the State superintendent a report that shows the school board the overall state of the school system while also gathering information on: 
-
- 
-
-Schools that are struggling the most (Low Graduation rate) 
-
-How class size affect college admission? 
-
-The top math schools in the state. 
 
 ### INTRODUCTION 
 
@@ -26,6 +15,18 @@ In this project, I utilized Tableau to explore a real-life data set on the educa
 
 
 
+
+### PROBLEM DESCRIPTION
+
+Over the years in the United States, Massachusetts workforce has been known to be the state with the highest record of college degree holders. However, very recently, there has been a drastic drop in the percentage of high school graduates proceeding to earn a college degree, and this has become an alarming issue for the state Education sector. As a matter of fact, data revealed that total number of high school graduates attending has dipped by ten percent. This has become a major concern to the State superintendent and other major stakeholders (Massachusetts education officials sound alarm over college enrollment plunge (wgbh.org). This singular reason birthed the need to perform this analysis to unravel some of these questions and see if they apply in real world scenarios. Presented in this project is the dataset from the different high schools in the State of Massachusetts. The analysis I performed was to give the State superintendent a report that shows the school board the overall state of the school system while also gathering information on: 
+
+ 
+
+Schools that are struggling the most (Low Graduation rate) 
+
+How class size affect college admission? 
+
+The top math schools in the state. 
 ### DATA 
 
 The data was supplied as an excel file for the year 2017. It was imported into Tableau. Dataset has 1861 rows and 299 columns. All analysis and visualization were performed in Tableau Public. 
