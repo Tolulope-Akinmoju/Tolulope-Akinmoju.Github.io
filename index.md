@@ -17,8 +17,8 @@
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 
-#### [Massachussets Education Overview](/[Education_Analysis)
-<img src="Classroom Newsletter (1).png?raw=true"/>
+#### [Massachussets Education Overview](/[Education_Analysis.md)
+<img src="images/Classroom Newsletter (1).png?raw=true"/>
 
 Over the years in the United States, Massachusetts workforce has been known to be the state with the highest record of college degree holders. However, very recently, there has been a drastic drop in the percentage of high school graduates proceeding to earn a college degree, and this has become an alarming issue for the state Education sector. In this project I was eager to analyze the provided dataset to suggests ways for statewide improvement.
 
