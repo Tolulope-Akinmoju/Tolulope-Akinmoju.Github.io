@@ -14,8 +14,8 @@
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-) (https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
-[<img src="images/Screenshot_20221202_104813.png?raw=true"/>] (https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)]
+#### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
+[<img src="images/Screenshot_20221202_104813.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
 
 My final write up for DoorDash Marketing Analysis. This marketing analysis was performed in Excel to help DoorDash improve and optimize their strategies for better customer retention and sales. Check out the full details 
 
