@@ -5,9 +5,9 @@
 
 The strength of any building is deeply rooted in the type of foundation it has. In other words, if you are hoping for a very strong building then you should pay close attention to the foundation. Interestingly, this saying goes for every area of our lives be it relationships, career, education, business etc. Narrowing it down to education, many parents are always concerned and very detailed about the type of schools their children or wards attend. Some of the frequently asked questions on different parenting boards on social media as regards education include: 
 
-What are your recommendations for good school around area XYZ? 
++ What are your recommendations for good school around area XYZ? 
 
-What is the class capacity in school XYZ etc. 
++ What is the class capacity in school XYZ etc. 
 
 And for me, I personally would have concerns about the ratio of students to teachers (Class size), overall experience and commitment of the teachers, overall state of the school amongst other factors. I am of the opinion that finding answers to some of these questions would be a good starting ground for a better tomorrow in our education sector and ultimately the overall success of the students.  
 
@@ -18,15 +18,15 @@ In this project, I utilized Tableau to explore a real-life data set on the educa
 
 ### PROBLEM DESCRIPTION
 
-Over the years in the United States, Massachusetts workforce has been known to be the state with the highest record of college degree holders. However, very recently, there has been a drastic drop in the percentage of high school graduates proceeding to earn a college degree, and this has become an alarming issue for the state Education sector. As a matter of fact, data revealed that total number of high school graduates attending has dipped by ten percent. This has become a major concern to the State superintendent and other major stakeholders. [[Check Here](https://www.wgbh.org/news/education/2022/08/03/massachusetts-education-officials-sound-alarm-over-college-enrollment-plunge)] . This singular reason birthed the need to perform this analysis to unravel some of these questions and see if they apply in real world scenarios. Presented in this project is the dataset from the different high schools in the State of Massachusetts. The analysis I performed was to give the State superintendent a report that shows the school board the overall state of the school system while also gathering information on: 
+Over the years in the United States, Massachusetts workforce has been known to be the state with the highest record of college degree holders. However, very recently, there has been a drastic drop in the percentage of high school graduates proceeding to earn a college degree, and this has become an alarming issue for the state Education sector. As a matter of fact, data revealed that total number of high school graduates attending has dipped by ten percent. This has become a major concern to the State superintendent and other major stakeholders [[Check Here](https://www.wgbh.org/news/education/2022/08/03/massachusetts-education-officials-sound-alarm-over-college-enrollment-plunge)]. This singular reason birthed the need to perform this analysis to unravel some of these questions and see if they apply in real world scenarios. Presented in this project is the dataset from the different high schools in the State of Massachusetts. The analysis I performed was to give the State superintendent a report that shows the school board the overall state of the school system while also gathering information on: 
 
  
 
-Schools that are struggling the most (Low Graduation rate) 
++ Schools that are struggling the most (Low Graduation rate) 
 
-How class size affect college admission? 
++ How class size affect college admission? 
 
-The top math schools in the state. 
++ The top math schools in the state. 
 
 
 
@@ -106,23 +106,23 @@ Lastly, I designed a dashboard that the superintendent can present to the school
 
 ### RECOMMENDATIONS 
 
-Based on the results from the class size, class sizes between 12 and 20 students seems to work best for all the students regardless of their socio-economic status and on this note I think that the recommendation for more schools cannot not be ascertained at this time. 
++ Based on the results from the class size, class sizes between 12 and 20 students seems to work best for all the students regardless of their socio-economic status and on this note I think that the recommendation for more schools cannot be ascertained at this time. 
 
  
 
-To increase college attendance rate, I would recommend that the State of Massachusetts Education board look into other factors asides class size for future improvements. 
++ To increase college attendance rate, I would recommend that the State of Massachusetts Education board look into other factors asides class size for future improvements. 
 
  
 
- State of Massachusetts has 1861 schools out of which only four of these schools passed the 4th Grade Math with the passing mark of 50% suggested by the superintendent. I therefore think it’s important the State reaches out to the teachers from these four schools and arrange with them ways to improve the other schools statewide. 
+ + State of Massachusetts has 1861 schools out of which only four of these schools passed the 4th Grade Math with the passing mark of 50%. I therefore think it’s important the State reaches out to the teachers from these four schools and arrange with them ways to improve the other schools statewide. 
 
  
 
-Overall, I am impressed the Superintendent is concerned about school improvement and I personally applaud his efforts channeled towards analyzing this data to see how and where improvements can be made. It's my opinion that having this report will help to effect changes that will shape the future of our children for years to come.  
++ Overall, I am impressed the Superintendent is concerned about school improvement and I personally applaud his efforts channeled towards analyzing this data to see how and where improvements can be made. It's my opinion that having this report will help to effect changes that will shape the future of our children for years to come.  
 
  
 
-If you have followed my post to this point, I will like to thank you! I enjoyed myself putting all of these together especially because education is a topic I care so much about. I would love to hear your suggestions as I am aiming to keep getting better.  
+If you have followed my post to this point, I will like to thank you! I enjoyed myself putting all of these together especially because education is a topic I care so much about. I would love to hear your feedback and suggestions as I am aim to keep getting better.  
 
 Be sure to connect with me and check my featured section for more projects: www.linkedin.com/in/tolulope-akinmoju   
 
