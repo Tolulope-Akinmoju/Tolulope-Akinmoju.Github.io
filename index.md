@@ -6,7 +6,7 @@
 ### SQL Projects
 
 #### [COVID-19 Data Exploration in SQL](/sample_project)
-<img src="covid-19-4966159_1920-1024x683-1.jpg?raw=true"/>
+<img src="images/covid-19-4966159_1920-1024x683-1.jpg?raw=true"/>
 
 
 ---
