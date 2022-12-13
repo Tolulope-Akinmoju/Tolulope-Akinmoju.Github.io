@@ -31,9 +31,6 @@ In this project, I utilized Tableau to explore a real-life data set on the educa
 The data was supplied as an excel file for the year 2017. It was imported into Tableau. Dataset has 1861 rows and 299 columns. All analysis and visualization were performed in Tableau Public. 
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
 
 ### ANALYSES 
 
