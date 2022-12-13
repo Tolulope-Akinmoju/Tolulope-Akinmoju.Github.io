@@ -47,7 +47,11 @@ Once the data was loaded, I was ready to answer the questions listed above that 
 
 
 
+
+
 Research has shown that that some of the leading factors for low school attendance include poverty, class size, parent involvement amongst others. In this analysis, I chose to see how college attendance is impacted by two of these factors in the plot below 
+
+
 
 
 
@@ -56,8 +60,18 @@ Research has shown that that some of the leading factors for low school attendan
 
 
 
+
+
+
+
+
 In the scatter plot above, I was hoping to see a much stronger correlation between class size and college attendance. Incorporating an additional factor of the economically disadvantage students in color code, I found that the more disadvantaged the students are, the lower their percentage attending college.  
 
+ 
+ 
+ 
+ 
+ 
  
 
 The next task was to find out the top math schools in the state. The superintendent believes that 4th grade math is key to a student's success and would like to focus on improving the state's MCAS 4th grade Math Passing value (50%). The line chart below shows only four schools are above the desired threshold of 50. Now that these schools are known, the teachers in these highlighted schools will assist in training the rest of the state on how to improve math scores.   
@@ -65,7 +79,13 @@ The next task was to find out the top math schools in the state. The superintend
  
  
  
+ 
+ 
+ 
 <img width="745" alt="4th grade" src="https://user-images.githubusercontent.com/114532273/207426959-9fda9840-1c3e-42b5-ac34-3e7e9d38369d.png">
+
+
+
 
 
 
@@ -73,7 +93,13 @@ Lastly, I designed a dashboard that the superintendent can present to the school
 
  
  
+ 
+ 
+ 
+ 
  <img width="1079" alt="DASHBOARD MA SCHLS" src="https://user-images.githubusercontent.com/114532273/207427201-003e5dea-2312-43ac-8281-c00e3f08025e.png">
+
+
 
 
 
