@@ -122,7 +122,7 @@ Lastly, I designed a dashboard that the superintendent can present to the school
 
  
 
-If you have followed my post to this point, I will like to thank you! I enjoyed myself putting all of these together especially because education is a topic I care so much about. I would love to hear your feedback and suggestions as I am aim to keep getting better.  
+If you have followed my post to this point, I will like to thank you! I enjoyed myself putting all of these together especially because education is a topic I care so much about. I would love to hear your feedback and suggestions as I aim to keep getting better.  
 
 Be sure to connect with me and check my featured section for more projects: www.linkedin.com/in/tolulope-akinmoju   
 
