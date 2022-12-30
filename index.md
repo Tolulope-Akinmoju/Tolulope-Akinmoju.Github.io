@@ -11,7 +11,7 @@
 
 
 #### [Healthcare Management Investigation](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
-[<img src="images/Screenshot_20221202_104813.png?raw=true"/>](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
+[<img src="images/Healthcare Instagram Post (4).png?raw=true"/>](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
 
 My final write up for DoorDash Marketing Analysis. This marketing analysis was performed in Excel to help DoorDash improve and optimize their strategies for better customer retention and sales. Check out the full details 
 
