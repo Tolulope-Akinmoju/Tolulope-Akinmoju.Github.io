@@ -13,7 +13,7 @@
 #### [Healthcare Management Investigation](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
 [<img src="images/Healthcare Instagram Post (4).png?raw=true"/>](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
 
-My final write up for DoorDash Marketing Analysis. This marketing analysis was performed in Excel to help DoorDash improve and optimize their strategies for better customer retention and sales. Check out the full details 
+My write up for Healthcare Management Investigation performed in MySQL. This analysis was performed to evaluate how cost can be saved while still keeping the beds open. Read the full details.
 
 ---
 
@@ -38,13 +38,12 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 
 ---
 
-### Category Name 2
+### Featured Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Healthcare Management Investigation](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
+- [Massachussets Education Overview](/Education_Analysis.md)
+- [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
+
 
 ---
 
