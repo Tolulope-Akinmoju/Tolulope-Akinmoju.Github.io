@@ -5,11 +5,6 @@
 
 ### SQL Projects
 
-#### [COVID-19 Data Exploration in SQL](/sample_project)
-<img src="images/covid-19-4966159_1920-1024x683-1.jpg?raw=true"/>
-
-
-
 #### [Healthcare Management Investigation](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
 [<img src="images/Healthcare Instagram Post (4).png?raw=true"/>](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
 
