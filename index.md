@@ -25,8 +25,7 @@ Over the years in the United States, Massachusetts workforce has been known to b
 
 
 #### [[2021-2022 NBA Season Analysis](https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
-
-[(https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
+[<img src="Orange Modern Basketball Tournament Instagram Post.png?raw=true"/>](https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
 
 
 ---
