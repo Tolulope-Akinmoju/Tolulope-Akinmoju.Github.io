@@ -23,8 +23,10 @@ My write up for Healthcare Management Investigation performed in MySQL. This ana
 
 Over the years in the United States, Massachusetts workforce has been known to be the state with the highest record of college degree holders. However, very recently, there has been a drastic drop in the percentage of high school graduates proceeding to earn a college degree, and this has become an alarming issue for the state Education sector. In this project I was eager to analyze the provided dataset to suggests ways for statewide improvement.
 
+
 #### [[2021-2022 NBA Season Analysis](https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
-[<img src="[images/Screenshot_20221202_104813.png](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
+
+[(https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
 
 
 ---
