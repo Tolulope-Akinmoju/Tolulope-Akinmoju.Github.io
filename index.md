@@ -25,7 +25,7 @@ Over the years in the United States, Massachusetts workforce has been known to b
 
 
 #### [2021-2022 NBA Season Analysis](https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
-[<img src="Orange Modern Basketball Tournament Instagram Post.png?raw=true"/>]
+<img src="Orange Modern Basketball Tournament Instagram Post.png?raw=true"/>
 
 In this project, I evaluated the NBA 2021-2022 season data of about 30 teams and I used Tableau to make visual insights on how certain parameters have contributed to the wins of some teams and players.
 
