@@ -11,8 +11,12 @@
 My write up for Healthcare Management Investigation performed in MySQL. This analysis was performed to evaluate how cost can be saved while still keeping the beds open. Read the full details.
 
 
-#### [Nashville housing- A data Cleaning Project](/Nashville Housing SQL cleaning.md)
+#### [Nashville Housing SQL cleaning.md]
 <img src="images/canadian-us-real-estate.jpg?raw=true"/>
+
+
+Real world data are often messy data and insights drawn from a messy data can lead to poor business decisions. In this project, I used SQL Server to clean up a dirty Nashville housing data
+
 
 ---
 
