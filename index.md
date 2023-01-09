@@ -10,6 +10,10 @@
 
 My write up for Healthcare Management Investigation performed in MySQL. This analysis was performed to evaluate how cost can be saved while still keeping the beds open. Read the full details.
 
+
+#### [Nashville housing- A data Cleaning Project](/Nashville Housing SQL cleaning.md)
+<img src="images/canadian-us-real-estate.jpg?raw=true"/>
+
 ---
 
 ### Tableau Projects
