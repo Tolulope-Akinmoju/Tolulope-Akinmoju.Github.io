@@ -195,5 +195,7 @@ All my codes are linked here in my [[github](https://github.com/Tolulope-Akinmoj
 Thank you for following me thus far and I hope it was a good read. Please do well to follow my data progress [[here](https://tolulope-akinmoju.github.io/)] and you can also connect with me on [[LinkedIn](https://www.linkedin.com/in/tolulope-akinmoju)]
 
 
-Reference
+**Reference**
+
+
 Guided Project- [[Alex the Analyst](https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4)]
