@@ -16,15 +16,18 @@ My write up for Healthcare Management Investigation performed in MySQL. This ana
 #### [Nashville Housing - A Data Cleaning project in SQL](/Nashville_SQL.md)
 <img src="images/canadian-us-real-estate.jpg?raw=true"/>
 
-#### [Who is Credit-Worthy - A World Bank Data Analysis](https://www.linkedin.com/pulse/who-credit-worthy-tolulope-akinmoju-/)
-<img src="images/canadian-us-real-estate.jpg?raw=true"/>
-
 Real world data are often messy data and insights drawn from a messy data can lead to poor business decisions. In this project, I used SQL Server to clean up a dirty Nashville housing data
 
+
+#### [Who is Credit-Worthy - A World Bank Data Analysis](https://www.linkedin.com/pulse/who-credit-worthy-tolulope-akinmoju-/)
+<img src="images/World Bank Day LinkedIn Post 2.png?raw=true"/>
+
+As the global recession hits many of countries, they are seeking to get more funding from IDA, a World Bank group. IDA wants to gain insights into their loans and payments in a bid to ascertain who owes the least amount of money in this region. I used SQL to find out who is credit worthy.
 
 ---
 
 ### Tableau Projects
+
 #### [Massachussets Education Overview](/Education_Analysis.md)
 <img src="images/Classroom Newsletter (1).png?raw=true"/>
 
@@ -40,6 +43,7 @@ In this project, I evaluated the NBA 2021-2022 season data of about 30 teams and
 ---
 
 ### Excel Projects
+
 #### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
 [<img src="images/Screenshot_20221202_104813.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
 
@@ -51,6 +55,7 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 
 - [Healthcare Management Investigation](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
 - [Nashville Housing - A Data Cleaning project in SQL](/Nashville_SQL.md)
+- [Who is Credit-Worthy - A World Bank Data Analysis](https://www.linkedin.com/pulse/who-credit-worthy-tolulope-akinmoju-/)
 - [Massachussets Education Overview](/Education_Analysis.md)
 - [2021-2022 NBA Season Analysis](https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
 - [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
