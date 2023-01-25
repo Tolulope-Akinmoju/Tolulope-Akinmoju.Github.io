@@ -16,6 +16,8 @@ My write up for Healthcare Management Investigation performed in MySQL. This ana
 #### [Nashville Housing - A Data Cleaning project in SQL](/Nashville_SQL.md)
 <img src="images/canadian-us-real-estate.jpg?raw=true"/>
 
+#### [Who is Credit-Worthy - A World Bank Data Analysis](https://www.linkedin.com/pulse/who-credit-worthy-tolulope-akinmoju-/)
+<img src="images/canadian-us-real-estate.jpg?raw=true"/>
 
 Real world data are often messy data and insights drawn from a messy data can lead to poor business decisions. In this project, I used SQL Server to clean up a dirty Nashville housing data
 
@@ -50,8 +52,8 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 - [Healthcare Management Investigation](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
 - [Nashville Housing - A Data Cleaning project in SQL](/Nashville_SQL.md)
 - [Massachussets Education Overview](/Education_Analysis.md)
-- [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
 - [2021-2022 NBA Season Analysis](https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
+- [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
 
 
 
