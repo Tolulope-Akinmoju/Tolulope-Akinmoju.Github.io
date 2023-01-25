@@ -22,7 +22,7 @@ Real world data are often messy data and insights drawn from a messy data can le
 #### [Who is Credit-Worthy - A World Bank Data Analysis](https://www.linkedin.com/pulse/who-credit-worthy-tolulope-akinmoju-/)
 <img src="images/World Bank Day LinkedIn Post 2.png?raw=true"/>
 
-As the global recession hits many of countries, they are seeking to get more funding from IDA, a World Bank group. IDA wants to gain insights into their loans and payments in a bid to ascertain who owes the least amount of money in this region. I used SQL to find out who is credit worthy.
+As the global recession hits many countries, they are seeking to get more funding from IDA, a World Bank group. IDA wants to gain insights into their loans and payments in a bid to ascertain who owes the least amount of money in this region. I used SQL to find out who is credit worthy.
 
 ---
 
