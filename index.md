@@ -49,6 +49,15 @@ In this project, I evaluated the NBA 2021-2022 season data of about 30 teams and
 
 My final write up for DoorDash Marketing Analysis. This marketing analysis was performed in Excel to help DoorDash improve and optimize their strategies for better customer retention and sales. Check out the full details 
 
+
+---
+
+### Python Projects
+
+#### [A mining analysis in Python](https://www.linkedin.com/pulse/quality-indicator-flotation-plant-mining-analysis-python-akinmoju-/)
+[<img src="images/Black White Modern Minimal December 6 National Miners Day Instagram Post (6).png?raw=true"/>](https://www.linkedin.com/pulse/quality-indicator-flotation-plant-mining-analysis-python-akinmoju-/)
+
+
 ---
 
 
