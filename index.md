@@ -51,6 +51,12 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 
 ---
 
+
+### R Projects
+
+#### [HR Employee Attrition Using R](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)
+[<img src="images/Blue Illustration Happy Working Greetings Facebook Post (1).png?raw=true"/>](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)
+
 ### Featured Projects
 
 - [Healthcare Management Investigation](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
@@ -59,7 +65,7 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 - [Massachussets Education Overview](/Education_Analysis.md)
 - [2021-2022 NBA Season Analysis](https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
 - [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
-
+- [HR Employee Attrition Using R](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)
 
 
 ---
