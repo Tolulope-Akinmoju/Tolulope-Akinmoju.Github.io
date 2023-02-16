@@ -57,6 +57,7 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 #### [A mining analysis in Python](https://www.linkedin.com/pulse/quality-indicator-flotation-plant-mining-analysis-python-akinmoju-/)
 [<img src="images/Black White Modern Minimal December 6 National Miners Day Instagram Post (6).png?raw=true"/>](https://www.linkedin.com/pulse/quality-indicator-flotation-plant-mining-analysis-python-akinmoju-/)
 
+This analysis was to provide predictions on the amount of impurities (in this case % silica concentrate) in the end of the mining process. These predictions will empower engineers with early information needed to act in advance to reduce impurities if need be.
 
 ---
 
@@ -64,9 +65,10 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 ### R Projects
 
 #### [HR Employee Attrition Using R](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)
-[<img src="images/Blue Illustration Happy Working Greetings Facebook Post (1).png?raw=true"/>](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)Here is a simple HR Employee Analytics using R to track employee attrition based on some important factors and also provided recommendations to support employee retention
+[<img src="images/Blue Illustration Happy Working Greetings Facebook Post (1).png?raw=true"/>](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)
 
 Here is a simple HR Employee Analytics using R to track employee attrition based on some important factors and a list of recommendations to support employee retention
+
 
 ### Featured Projects
 
@@ -76,6 +78,7 @@ Here is a simple HR Employee Analytics using R to track employee attrition based
 - [Massachussets Education Overview](/Education_Analysis.md)
 - [2021-2022 NBA Season Analysis](https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
 - [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
+- [A mining analysis in Python](https://www.linkedin.com/pulse/quality-indicator-flotation-plant-mining-analysis-python-akinmoju-/)
 - [HR Employee Attrition Using R](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)
 
 
