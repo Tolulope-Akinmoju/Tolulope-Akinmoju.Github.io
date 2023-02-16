@@ -55,7 +55,9 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 ### R Projects
 
 #### [HR Employee Attrition Using R](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)
-[<img src="images/Blue Illustration Happy Working Greetings Facebook Post (1).png?raw=true"/>](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)
+[<img src="images/Blue Illustration Happy Working Greetings Facebook Post (1).png?raw=true"/>](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)Here is a simple HR Employee Analytics using R to track employee attrition based on some important factors and also provided recommendations to support employee retention
+
+Here is a simple HR Employee Analytics using R to track employee attrition based on some important factors and a list of recommendations to support employee retention
 
 ### Featured Projects
 
