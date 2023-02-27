@@ -52,7 +52,7 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 
 ---
 
-Power BI Projects
+### Power BI Projects
 #### [Adventure Works cycles Report]( Adventure_Cycle.md)
 <img src="images/Nature Travel Collage Photo Facebook Post (1).png?raw=true"/>
 
