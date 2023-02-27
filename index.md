@@ -54,7 +54,8 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 
 Power BI Projects
 #### [Adventure Works cycles Report]( Adventure_Cycle.md)
-<img src="images/Nature Travel Collage Photo Facebook Post.png?raw=true"/>
+<img src="images/Nature Travel Collage Photo Facebook Post (1).png?raw=true"/>
+
 A Power Bi dashboard showing company performance (sales, customers and products performance) to stakeholders of the fictitious, multinational manufacturing company named Adventure Works Cycle.
 
 
