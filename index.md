@@ -52,6 +52,14 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 
 ---
 
+Power BI Projects
+#### [Adventure Works cycles Report]( Adventure_Cycle.md)
+<img src="images/Nature Travel Collage Photo Facebook Post.png?raw=true"/>
+
+
+---
+
+
 ### Python Projects
 
 #### [A mining analysis in Python](https://www.linkedin.com/pulse/quality-indicator-flotation-plant-mining-analysis-python-akinmoju-/)
@@ -78,6 +86,7 @@ Here is a simple HR Employee Analytics using R to track employee attrition based
 - [Massachussets Education Overview](/Education_Analysis.md)
 - [2021-2022 NBA Season Analysis](https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
 - [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
+- [Adventure Works cycles Report]( Adventure_Cycle.md)
 - [A mining analysis in Python](https://www.linkedin.com/pulse/quality-indicator-flotation-plant-mining-analysis-python-akinmoju-/)
 - [HR Employee Attrition Using R](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)
 
