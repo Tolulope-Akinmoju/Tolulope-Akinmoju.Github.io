@@ -1,9 +1,10 @@
 ## Adventure Works Cycle- A Power Bi Project
 
-#### OVERVIEW
+
+### OVERVIEW
 AdventureWorks Database is an online database that supports a fictitious, multinational manufacturing company named Adventure Works Cycles. The data in this project was analyzed in Power Query, followed by building a relational model and utilizing DAX measures to incorporate extra calculated fields. Finally, a dashboard was created to visualize the company performance.
 
-#### DATA
+### DATA
 Dataset was from Adventure Works cycles data provided by Maven Analytics. The data consists of five different table:
 
 ·      Transactions
@@ -16,7 +17,7 @@ Dataset was from Adventure Works cycles data provided by Maven Analytics. The da
 
 ·      Territories
 
-#### TASK
+### TASK
 
 For this project, I acted as the Business Intelligence Analyst and my goal was to:
 
@@ -28,7 +29,7 @@ For this project, I acted as the Business Intelligence Analyst and my goal was t
 
 ·      Identify high-performing customers in the business.
 
-#### KEY LEARNINGS
+### KEY LEARNINGS
 
 ·      Transforming data in power query. This allows for normalizing and cleaning up the data.
 
@@ -47,7 +48,7 @@ For this project, I acted as the Business Intelligence Analyst and my goal was t
 
 This project was a part of the course Microsoft Power Bi Desktop for Business Intelligence by Maven Analytics.
 
-#### CONCLUSION
+### CONCLUSION
 
 Thanks for reading through my project. Overall, this was a fun experience to upskill in Power BI. As I continue to expand my data analytics skills, I would appreciate any suggestions or feedback.
 
