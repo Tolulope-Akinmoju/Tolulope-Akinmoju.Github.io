@@ -59,6 +59,11 @@ My final write up for DoorDash Marketing Analysis. This marketing analysis was p
 A Power Bi dashboard showing company performance (sales, customers and products performance) to stakeholders of the fictitious, multinational manufacturing company named Adventure Works Cycle.
 
 
+#### [Supply Chain Analytics](https://www.linkedin.com/pulse/supply-chain-analytics-tolulope-akinmoju-/) 
+
+
+This dashboard is for a supply chain company and it showcases sales by country, region, market etc. The aim here is to create a business report that gives an overview of the business while helping stakeholders answer some basic questions.
+
 ---
 
 
@@ -89,6 +94,7 @@ Here is a simple HR Employee Analytics using R to track employee attrition based
 - [2021-2022 NBA Season Analysis](https://www.linkedin.com/pulse/2021-2022-nba-season-analysis-tolulope-akinmoju-/)
 - [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-marketing-analysis-tolulope-akinmoju-/)
 - [Adventure Works cycles Report](/Adventure_Cycle.md)
+-  [Supply Chain Analytics](https://www.linkedin.com/pulse/supply-chain-analytics-tolulope-akinmoju-/) 
 - [A mining analysis in Python](https://www.linkedin.com/pulse/quality-indicator-flotation-plant-mining-analysis-python-akinmoju-/)
 - [HR Employee Attrition Using R](https://www.linkedin.com/pulse/exploratory-data-analysis-hr-employee-attrition-using-akinmoju-/)
 
