@@ -40,8 +40,17 @@ For this project, I acted as the Business Intelligence Analyst and my goal was t
 ·      Showing Key Metrics with Cards and KPI visuals, visualizing matrix, Line Charts, Tree Maps, Gauge, Map, Clustered Bar chart, donut charts, Line and Clustered Column Charts.
 
 ·      Editing Power BI interactions through slicers, adding Drill-through filters, page level, report level and Visual level filters.
-
 ·      Designed an interactive report to analyze and visualize the data.
+
+
+
+![adventure](https://user-images.githubusercontent.com/114532273/226063651-774a8435-2779-4383-bf2b-70abdede71dc.png)
+
+![adventure 2](https://user-images.githubusercontent.com/114532273/226063935-9aa8e909-3437-4733-b866-c4f8c1f2c9e8.png)
+
+![adventure 3](https://user-images.githubusercontent.com/114532273/226063947-384786c8-7def-41b4-be16-952a0b7d02c6.png)
+
+
 
 
  To summarize all I did, I put all the different visualizations into an interactive dashboard that allows anyone go through my work step by step. View dashboard here [[Adventure Works cycles Report]](https://www.linkedin.com/feed/update/urn:li:activity:7034636617575276545/)
