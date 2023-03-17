@@ -44,7 +44,7 @@ For this project, I acted as the Business Intelligence Analyst and my goal was t
 ·      Designed an interactive report to analyze and visualize the data.
 
 
- To summarize all I did, I put all the different visualizations into an interactive dashboard that allows anyone go through my work step by step. View dashboard here [Adventure Works cycles Report]( https://app.powerbi.com/groups/me/reports/3d732218-71ad-4bb2-90d3-e9c9a0b4d563?redirectedFromSignup=1)
+ To summarize all I did, I put all the different visualizations into an interactive dashboard that allows anyone go through my work step by step. View dashboard here [[Adventure Works cycles Report]](https://www.linkedin.com/feed/update/urn:li:activity:7034636617575276545/)
 
 This project was a part of the course Microsoft Power Bi Desktop for Business Intelligence by Maven Analytics.
 
