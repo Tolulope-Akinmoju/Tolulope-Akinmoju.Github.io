@@ -60,6 +60,7 @@ A Power Bi dashboard showing company performance (sales, customers and products 
 
 
 #### [Supply Chain Analytics](https://www.linkedin.com/pulse/supply-chain-analytics-tolulope-akinmoju-/) 
+<img src="images/Modern Shipping and Logistic logo (2).png?raw=true"/>
 
 
 This dashboard is for a supply chain company and it showcases sales by country, region, market etc. The aim here is to create a business report that gives an overview of the business while helping stakeholders answer some basic questions.
