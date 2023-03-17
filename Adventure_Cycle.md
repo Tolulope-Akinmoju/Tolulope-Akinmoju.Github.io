@@ -42,8 +42,7 @@ For this project, I acted as the Business Intelligence Analyst and my goal was t
 ·      Editing Power BI interactions through slicers, adding Drill-through filters, page level, report level and Visual level filters.
 
 ·      Designed an interactive report to analyze and visualize the data.
- 
- <img src="images/Adventure_works Power BI project.pdf?raw=true"/>
+
 
  To summarize all I did, I put all the different visualizations into an interactive dashboard that allows anyone go through my work step by step. View dashboard here [Adventure Works cycles Report]( https://app.powerbi.com/groups/me/reports/3d732218-71ad-4bb2-90d3-e9c9a0b4d563?redirectedFromSignup=1)
 
