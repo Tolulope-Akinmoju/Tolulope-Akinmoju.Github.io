@@ -77,6 +77,9 @@ https://github.com/Tolulope-Akinmoju/Tolulope-Akinmoju.Github.io/blob/master/ima
 Overall, breaking down denials into categories as shown in the table above allows us to classify denials as avoidable or non-avoidable. Doing this helps us to explore different areas where opportunities exist for improvement while ultimately focusing on what is avoidable. 
 
 
+For an interactive dashboard report of the analysis performed, Please follow the link [[here](https://app.powerbi.com/view?r=eyJrIjoiN2NmZTFiZTUtOWMxNi00MDAzLThhMzktYTJlNmEwZmM1NzEzIiwidCI6IjAyMTcyZTg2LTgxYWItNGQzZS04MzgxLTQ2YTIxNzBkZGFmZSJ9)]
+
+
 
 ### Recommendations
 
