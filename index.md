@@ -11,7 +11,7 @@
 #### [Accounts Receivable in Healthcare](https://www.linkedin.com/pulse/accounts-receivable-healthcare-tolulope-akinmoju-)
 [<img src="images/Blue Rounded Rectangle Accounting Logo (3).png?raw=true"/>](https://www.linkedin.com/pulse/accounts-receivable-healthcare-tolulope-akinmoju-)
 
-A neglect of A/R is a major cause of revenue leakage in healthcare and as such the need for AR management and follow up. The goal of A/R analysis is to increase revenue collection for the clinic by ensuring services rendered are paid for accurately and promptly. 
+A neglect of A/R is a major cause of revenue leakage in healthcare and as such the need for AR management and follow up. The goal of A/R analysis is to increase revenue collection for the clinic by ensuring services rendered are paid for accurately and promptly. For this project, I took on the role of a junior consultant to a Clinic. My goal was to understand the current status of their Accounts Receivables and provide recommendations that addresses the possible issues.
 
 #### [Healthcare Denials Management](/Denials_rcm.md)
 <img src="images/file-1963959149.jpg?raw=true"/>
