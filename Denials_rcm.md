@@ -1,5 +1,7 @@
 ## Denials Management Analysis
 
+![file-1963959149](https://github.com/Tolulope-Akinmoju/Tolulope-Akinmoju.Github.io/assets/114532273/8e8a0262-4d0d-440d-96e3-e0649688d1fc)
+
 
 ### Introduction
 Healthcare is business and as such Denials Management is critical to ensure the business profits aren't spent unnecessarily  on appeals and claim. resubmission. Claim Denials are pain point, and the overall aim of denial management is to identify and mitigate potential denials. Appeals and resubmission of claims cost the practice money that could have been reinvested into the practice. In this project, I worked as the revenue cycle analyst to a small clinic and was charged with the responsibility of identifying current issues behind denials whilst also suggesting ways to reduce and possibly prevent future occurrence of same.
