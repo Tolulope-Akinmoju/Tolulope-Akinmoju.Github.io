@@ -5,6 +5,13 @@
 
 ---
 
+
+### RCM Analyis
+
+### [Denials Management(/Denials.md)
+<img src="images/file-1963959149.jpg?raw=true"/>
+Claim Denials are pain point, and the overall aim of denial management is to identify and mitigate potential denials. Appeals and resubmission of claims cost practice money that could have been reinvested into the practice. In this project, I worked as the revenue cycle analyst to a small clinic and was charged with the responsibility of identifying current issues behind denials whilst also suggesting ways to reduce and possibly prevent future occurrence of same.
+
 ### SQL Projects
 
 #### [Healthcare Management Investigation](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
