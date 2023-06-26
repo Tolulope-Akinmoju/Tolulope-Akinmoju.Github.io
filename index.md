@@ -6,7 +6,7 @@
 ---
 
 
-### RCM Analyis
+### RCM Analysis
 
 ### [Denials Management](/Denials_rcm.md)
 <img src="images/file-1963959149.jpg?raw=true"/>
