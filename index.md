@@ -8,7 +8,12 @@
 
 ### RCM Analysis
 
-### [Denials Management](/Denials_rcm.md)
+#### [Accounts Receivable in Healthcare](https://www.linkedin.com/pulse/accounts-receivable-healthcare-tolulope-akinmoju-)
+[<img src="images/Blue Rounded Rectangle Accounting Logo (3).png?raw=true"/>](https://www.linkedin.com/pulse/accounts-receivable-healthcare-tolulope-akinmoju-)
+
+A neglect of A/R is a major cause of revenue leakage in healthcare and as such the need for AR management and follow up. The goal of A/R analysis is to increase revenue collection for the clinic by ensuring services rendered are paid for accurately and promptly. 
+
+#### [Healthcare Denials Management](/Denials_rcm.md)
 <img src="images/file-1963959149.jpg?raw=true"/>
 Claim Denials are pain point, and the overall aim of denial management is to identify and mitigate potential denials. Appeals and resubmission of claims cost practice money that could have been reinvested into the practice. In this project, I worked as the revenue cycle analyst to a small clinic and was charged with the responsibility of identifying current issues behind denials whilst also suggesting ways to reduce and possibly prevent future occurrence of same.
 
@@ -95,6 +100,9 @@ Here is a simple HR Employee Analytics using R to track employee attrition based
 
 ### Featured Projects
 
+
+- [Accounts Receivable in Healthcare](https://www.linkedin.com/pulse/accounts-receivable-healthcare-tolulope-akinmoju-)
+-  [Denials Management](/Denials_rcm.md)
 - [Healthcare Management Investigation](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
 - [Nashville Housing - A Data Cleaning project in SQL](/Nashville_SQL.md)
 - [Who is Credit-Worthy - A World Bank Data Analysis](https://www.linkedin.com/pulse/who-credit-worthy-tolulope-akinmoju-/)
