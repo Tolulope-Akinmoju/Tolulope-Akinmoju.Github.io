@@ -1,4 +1,4 @@
-## Denials Analysis
+## Denials Management Analysis
 
 
 ### Introduction
