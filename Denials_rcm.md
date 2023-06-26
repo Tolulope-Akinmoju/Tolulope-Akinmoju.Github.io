@@ -38,7 +38,7 @@ My first task was to find out the magnitude of the denial problem by volume and 
 
 Claim denial rate is a key metric when it comes to healthcare revenue cycle management. It shows us the percentage of claims denied by insurance payers compared to the total number of claims submitted over a given period. This can be expressed as a percentage of total volume and dollars. A low denial rate shows the effectiveness of the organization; however, a high denial rate is an indication of issues related to billing, documentation, authorization etc. and this can result in revenue loss for the clinic.  For this clinic, the analysis showed a denial rate of 4.8% by volume and 4.1% by dollars. Industry standard rate is typically around 5-10% which tells us that the clinic is doing well in this regard.
 
-<img width="706" alt="denial kpi" src="https://github.com/Tolulope-Akinmoju/Tolulope-Akinmoju.Github.io/assets/114532273/e6f0a338-c5cc-4c9e-b31d-66cd3ec2c5d3">
+<img width="706" alt="denial kpi" src="https://github.com/Tolulope-Akinmoju/Tolulope-Akinmoju.Github.io/assets/114532273/b2a271bd-18c0-4bac-9c65-9a15b878ce73">
 
 
 My other goal in the analysis was to find out how quickly denials are resolved.
@@ -69,10 +69,16 @@ My next focus was on the different payer types. I was hoping to find out if the 
 
 My next point of analysis was to drill down on these payers to find out the individual payers responsible for the denials and to find what were their reasons. Each denial category can be drilled down to CARC (Claim Adjustment Reason Code) /RARC (Remittance Advice Remark Code) codes to give us specific reasons for the denials observed. From my data, CARC Code 96 and 18 were the top CARC reasons and the associated RARC Codes give us the specific requirement of the payers that contributed to the denials observed. For CARC Code 96, the associated RARC codes were N362, N30 – Patient Ineligibility. Interestingly, when review was done with respect to the different procedures to see if specific procedures were causing the denials, the same denial reasons (CARC/RARC codes) apply which tells us the issues weren’t procedure specific. 
 
-![carc pix](https://github.com/Tolulope-Akinmoju/Tolulope-Akinmoju.Github.io/assets/114532273/ebfc1b2b-0f56-4ec9-8e39-e0b071f5469c)
+
+<img width="941" alt="denial procedurecarc" src="https://github.com/Tolulope-Akinmoju/Tolulope-Akinmoju.Github.io/assets/114532273/e74df089-0b8d-4350-97c2-0a02c817a089">
+
   
 
 Overall, breaking down denials into categories as shown in the table above allows us to classify denials as avoidable or non-avoidable. Doing this helps us to explore different areas where opportunities exist for improvement while ultimately focusing on what is avoidable. 
+
+
+![carc pix](https://github.com/Tolulope-Akinmoju/Tolulope-Akinmoju.Github.io/assets/114532273/ebfc1b2b-0f56-4ec9-8e39-e0b071f5469c)
+
 
 
 For an interactive dashboard report of the analysis performed, Please follow the link [[here](https://app.powerbi.com/view?r=eyJrIjoiN2NmZTFiZTUtOWMxNi00MDAzLThhMzktYTJlNmEwZmM1NzEzIiwidCI6IjAyMTcyZTg2LTgxYWItNGQzZS04MzgxLTQ2YTIxNzBkZGFmZSJ9)]
