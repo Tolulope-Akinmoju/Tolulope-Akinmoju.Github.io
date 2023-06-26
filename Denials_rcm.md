@@ -134,7 +134,7 @@ For an interactive dashboard report of the analysis performed, Please follow the
 
 ### Recommendations
 
-•      Study their current processing tools for eligibility and insurance verifications to recommend improvements due to the high volume of denials because of eligibility.
+•      Study the current processing tools for eligibility and insurance verifications to recommend improvements due to the high volume of denials because of eligibility.
 
 •      Have a plan in place to notify patients in advance for cases where patients do not have coverage.
 
