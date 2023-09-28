@@ -61,7 +61,6 @@ GROUP BY month
 
 
 -- the month with the highest number of appointments in the given dataset.
-    
 SELECT 
    EXTRACT(MONTH FROM (AppointmentDay)) AS months, COUNT(*) AS counts
 FROM patients
@@ -72,7 +71,6 @@ LIMIT 1;
 
     
 -- Calculate the weekly average number of appointments in the given dataset.
-    
 WITH Weekly_count AS
     (SELECT 
         EXTRACT(WEEK FROM (AppointmentDay)) AS week,
@@ -85,8 +83,7 @@ GROUP BY week;
 
 
     
--- Find the week with the highest number of appointments in the given dataset.
-    
+-- Find the week with the highest number of appointments in the given dataset.    
 SELECT 
    EXTRACT(WEEK FROM (AppointmentDay)) AS weeks, COUNT(*) AS counts
 FROM patients
@@ -96,8 +93,7 @@ LIMIT 1;
 
     
 
--- What is the distribution of appointments based on gender in the dataset?
-    
+-- What is the distribution of appointments based on gender in the dataset?   
 SELECT 
     Gender, COUNT(*) AS counts
 FROM patients
@@ -105,8 +101,7 @@ GROUP BY Gender;
 
 
     
--- Calculate the number of appointments per weekday in the given dataset.
-    
+-- Calculate the number of appointments per weekday in the given dataset.    
 SELECT 
    (WEEKDAY(AppointmentDay)) AS weekday, COUNT(*) AS counts
 FROM patients
@@ -124,7 +119,6 @@ ORDER BY counts;
 
     
 -- Calculate the average time between scheduling and the appointment day in the given dataset.
-    
 SELECT 
    ROUND(AVG(DATEDIFF(AppointmentDay, ScheduledDay)), 0) AS Avg_time 
 FROM patients;
@@ -132,8 +126,6 @@ FROM patients;
 
 
 -- Appointment Date Distribution, most to least.
-
-    
 SELECT AppointmentDay, Count(*) AS count
 FROM patients
 GROUP BY AppointmentDay
@@ -141,8 +133,6 @@ ORDER BY count DESC;
     
 
 -- Did sending SMS have impact on patient attendance.
-
-    
 SELECT SMSReceived, Count(*) AS count
 FROM patients
 GROUP BY SMSReceived
@@ -151,8 +141,6 @@ ORDER BY count DESC;
     
 
 -- Distribution of patient that Showed VS NoShow.
-
-    
 SELECT NoShow, Count(*) AS count
 FROM patients
 GROUP BY NoShow;
@@ -161,8 +149,6 @@ GROUP BY NoShow;
 
     
 -- Did more males show up for their appointments than the females?
-
-    
 SELECT Gender, NoShow, Count(*) AS count
 FROM patients
 GROUP BY Gender, NoShow
