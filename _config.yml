@@ -4,6 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
  I love to analyze everything data
   <br><br>
   <a href="https://www.linkedin.com/in/tolulope-akinmoju/">View My LinkedIn Profile</a> 
+  <br><br>
   <a href="https://public.tableau.com/app/profile/tolulope.akinmoju/vizzes">View My Tableau Profile</a>
   
 theme: jekyll-theme-minimal
