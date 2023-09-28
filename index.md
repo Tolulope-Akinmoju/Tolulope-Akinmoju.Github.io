@@ -19,6 +19,9 @@ Claim Denials are pain point, and the overall aim of denial management is to ide
 
 ### SQL Projects
 
+#### [Hospital Medical Appointments Analysis] (/Medical_Python&SQL.md)
+A Healthcare Appointments Analytics project that delves into the intricacies of medical appointments whilst exploring the factors influencing patient attendance.
+
 #### [Healthcare Management Investigation](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
 [<img src="images/Healthcare Instagram Post (4).png?raw=true"/>](https://www.linkedin.com/pulse/healthcare-management-investigation-tolulope-akinmoju-/)
 
