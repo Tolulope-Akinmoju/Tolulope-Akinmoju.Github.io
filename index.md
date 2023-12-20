@@ -1,7 +1,7 @@
 <img src="images/1668806434271.jfif?raw=true"/>
 
 # MY DATA ANALYTICS PORTFOLIO
-#### Hi there! Welcome to my online portfolio. I am a Data Analyst, eager and ready to use my experiences and skills in SQL,Python, Excel, Power BI and Tableau to produce meaningful and insightful contributions in the Tech community.
+#### Hi there! Welcome to my online portfolio. I am passionate about scrum and data analysis, eager and ready to use my experiences and skills in SQL,Python, Excel, Power BI and Tableau to produce meaningful and insightful contributions in the Tech community.
 
 ---
 
